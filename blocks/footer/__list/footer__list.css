@@ -1,0 +1,15 @@
+.footer__list {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-content: center;
+  list-style: none;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 425px) {
+  .footer__list {
+    flex-direction: column;
+    align-content: flex-start;
+  }
+}
