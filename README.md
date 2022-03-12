@@ -13,4 +13,4 @@
 * Гриды
 
 ## Гитхаб
-https://github.com/grossdj71/russian-travel
+https://grossdj71.github.io/russian-travel/
