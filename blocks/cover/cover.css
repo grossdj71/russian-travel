@@ -1,0 +1,15 @@
+  .cover {
+    max-width: 1184px;
+    margin: 0 auto 92px;
+    position: relative;
+    display: grid;
+    grid-template-rows: repeat(2, min-content);
+    grid-gap: 32px;
+    z-index: 4;
+  }
+
+  @media screen and (max-width: 767px) {
+    .cover {
+      grid-gap: 16px;
+    }
+  }
