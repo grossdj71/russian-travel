@@ -23,5 +23,6 @@
 @media screen and (max-width: 320px) {
   .cover__link {
     padding: 9% 0;
+    width: 320px;
   }
 }
