@@ -11,13 +11,9 @@
 
 @media screen and (max-width: 768px) {
   .place__link {
-    margin-right: 16px;
+    margin-left: 16px;
   }
 }
 
 
-@media screen and (max-width: 320px) {
-  .place__link {
-      margin-left: 16px;
-  }
-}
+
