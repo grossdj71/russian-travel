@@ -1,0 +1,23 @@
+.lead__capture {
+  margin-top: 8px;
+  min-width: 159px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .lead__capture {
+    padding-left: 24px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lead__capture {
+    padding-left: 16px;
+  }
+}
